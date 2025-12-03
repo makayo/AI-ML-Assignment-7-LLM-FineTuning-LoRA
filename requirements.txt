@@ -1,0 +1,19 @@
+# Core environment
+python>=3.9
+jupyter
+notebook
+jupyterlab
+
+# Deep learning
+torch==2.9.1
+
+# Hugging Face ecosystem
+transformers==4.57.3
+peft==0.18.0
+datasets==4.4.1
+evaluate==0.4.6
+
+# Data handling and ML utilities
+numpy==2.3.5
+scikit-learn==1.7.2
+
